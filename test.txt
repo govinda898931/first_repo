@@ -1,1 +1,2 @@
 This is another second line addition to check the new features lulwa blo.
+Last time the first line got removed because i was using just cat so now i am using nano editor to make changes. this feels amazing! Linux gives so much power to its users!
