@@ -1,1 +1,1 @@
-Hello this is just a test message from git bash to learn using git using CLI from git bash, hope this works!
+This is another second line addition to check the new features lulwa blo.
